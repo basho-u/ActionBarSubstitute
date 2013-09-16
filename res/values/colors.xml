@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="alpha_zero">#0000</color>
+
+    <color name="bw_0">#000</color>
+    <color name="bw_1">#111</color>
+    <color name="bw_2">#222</color>
+    <color name="bw_3">#333</color>
+    <color name="bw_4">#444</color>
+    <color name="bw_5">#555</color>
+    <color name="bw_6">#666</color>
+    <color name="bw_7">#777</color>
+    <color name="bw_8">#888</color>
+    <color name="bw_9">#999</color>
+    <color name="bw_a">#aaa</color>
+    <color name="bw_b">#bbb</color>
+    <color name="bw_c">#ccc</color>
+    <color name="bw_d">#ddd</color>
+    <color name="bw_e">#eee</color>
+    <color name="bw_f">#fff</color>
+
+
+
+</resources>

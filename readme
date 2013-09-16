@@ -1,0 +1,8 @@
+自作ActionBar
+Android2.*用に9ActionBarを独自実装した。
+Android2.*がオワコンとのことで、公開。
+なお、ActionBarのメソッドは見てないので、機能とかインターフェイスとかは気にしてない。
+
+Fragment切り替えに使ってるので、Fragment切り替えで実装したい場合、publicメソッドで流してください。
+
+芭蕉
